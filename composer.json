@@ -1,11 +1,13 @@
 {
     "name": "infrangible/m2-select2",
-    "description": "Infrangible Magento 2 Select2",
+    "description": "Provides the Select2 library for styled, searchable drop-down lists in the Magento storefront and admin, used by other Infrangible modules.",
     "type": "magento2-module",
     "version": "2.0.0",
     "license": "MIT",
     "keywords": [
-        "Magento"
+        "Magento",
+        "Magento 2",
+        "Adobe Commerce"
     ],
     "homepage": "https://www.infrangible.dev/modules/select2",
     "authors": [
